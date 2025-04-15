@@ -1,4 +1,37 @@
 {
     "java.configuration.updateBuildConfiguration": "automatic",
-    "java.compile.nullAnalysis.mode": "automatic"
+    "java.compile.nullAnalysis.mode": "automatic",
+    "cSpell.words": [
+        "Abregú",
+        "Actualiza",
+        "autenticación",
+        "Autenticado",
+        "AWER",
+        "Busca",
+        "buscar",
+        "Cómo",
+        "configurado",
+        "Crea",
+        "defecto",
+        "desarrollar",
+        "Descripción",
+        "Devuelve",
+        "Elimina",
+        "equipo",
+        "equipos",
+        "integración",
+        "Jesús",
+        "Lista",
+        "memoria",
+        "nombre",
+        "nuevo",
+        "pendiente",
+        "principales",
+        "proyecto",
+        "Prueba",
+        "Técnica",
+        "Tecnologías",
+        "Usuario",
+        "utilizadas"
+    ]
 }

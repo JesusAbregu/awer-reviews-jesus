@@ -10,7 +10,6 @@
 - ✅ Swagger (pendiente de integración)
 - ✅ React (frontend a desarrollar)
 
----
 
 ## 🔐 Usuario por defecto
 
@@ -28,10 +27,10 @@
 | DELETE | `/equipos/{id}`  | ✅          | Elimina un equipo                   |
 | GET    | `/equipos/buscar?nombre=X` | ❌ | Busca por nombre                   |
 
----
+
 
 ## ▶️ Cómo ejecutar el proyecto
 
-```bash
+bash
 mvn clean install
 mvn spring-boot:run
