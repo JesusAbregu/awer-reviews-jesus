@@ -17,8 +17,6 @@
 - **Username:** `test`
 - **Password:** `12345`
 
----
-
 ## 📂 Endpoints principales
 
 | Método | Endpoint         | Autenticado | Descripción                         |
