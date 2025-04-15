@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ⚽ AWER – Prueba Técnica Full Stack  
 **Desarrollado por: Jesús Abregú**
 
@@ -36,3 +37,7 @@
 
 | Método | Endpoint                       | Autenticado | Descripción                         |
 
+=======
+# awer-reviews-jesus
+awer
+>>>>>>> df85b2bccbf9864df20951fa677cce56704795e1
